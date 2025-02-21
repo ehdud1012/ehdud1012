@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kim Do Young</h1>
+<h1 align="center">Hi 👋, I'm Do-Young</h1>
 <h3 align="center">"Passionate developer who thrives on collaboration, continuous learning, and problem-solving."</h3>
 
 - 🌱 I’m currently learning **a web project based on Spring Boot**
